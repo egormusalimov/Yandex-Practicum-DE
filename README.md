@@ -5,8 +5,6 @@
 ## Сертификаты
 
 - [Certificate of completion the course (English version)](https://github.com/egormusalimov/Yandex-Practicum-DE/blob/main/Diploma_ENG_%D0%9C%D1%83%D1%81%D0%B0%D0%BB%D0%B8%D0%BC%D0%BE%D0%B2_2025-12133-010.pdf)
-
-![Сертификат](Diploma_ENG_Мусалимов_2025-12133-010.pdf)
    🎓
 ## Список проектов
 - **[Организация Data Lake](https://github.com/egormusalimov/Yandex-Practicum-DE/tree/main/%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20Data%20Lake)**  
